@@ -78,19 +78,19 @@ Voici la liste des endpoints REST développés dans ce TP.
 ## Captures d'écran des Tests
 
 ### 1. Création d'un Patient (POST)
-![Test Create Patient](screenshots/CreatePatient.PNG)
+![Test Create Patient](Screenshots/CreatePatient.png)
 
 ### 2.  Création d'un Médecin (POST)
-![Test Create Medecin](screenshots/CreateMedecin.PNG)
+![Test Create Medecin](Screenshots/CreateMedecin.png)
 
 ### 3.  Création d'un RendezVous (POST)
-![Test Create RndezVous](screenshots/CreateRendezVous.PNG)
+![Test Create RndezVous](Screenshots/CreateRendezVous.png)
 
 ### 4.  Création d'une Consultation (POST)
-![Test Create Consultation](screenshots/CreateConsultation.PNG)
+![Test Create Consultation](Screenshots/CreateConsultation.png)
 
 ### 5. Base de données H2
-![H2 Console](screenshots/h2_console.PNG)
+![H2 Console](Screenshots/h2_console.png)
 
 ---
 
